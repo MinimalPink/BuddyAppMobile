@@ -5,7 +5,7 @@
     <description>Meet BuddyApp, best for any kind of Private or Public community, Intranet or Extranet websites. </description>
     <author email="dev.george@seventhqueen.com" href="http://www.SeventhQueen.com">SeventhQueen</author>
 
-    <preference name="phonegap-version" value="cli-5.2.0" />
+    <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
     
     <preference name="orientation" value="portrait" />       <!-- all: default means both landscape and portrait are enabled -->
