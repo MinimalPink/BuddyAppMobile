@@ -48,5 +48,5 @@
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
     <content src="http://seventhqueen.com/themes/buddyapp" />
-    <access origin="http://seventhqueen.com/themes/buddyapp" subdomains="true" />
+    <access origin="http://seventhqueen.com" subdomains="true" />
 </widget>
